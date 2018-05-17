@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Example\\Backup\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^7.0",
+    "league/flysystem-rackspace": "dev-master",
+    "symfony/dotenv": "^3.3"
+  }
+}
